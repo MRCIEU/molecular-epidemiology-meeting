@@ -39,3 +39,5 @@ molepi[sample(nrow(molepi)),]
 |6|Matthew Suderman   | Multi-omic disease prediction|
 |7|Kaitlin Wade       | Microbiomic                  |
 |8|Hannah Elliott     | Epigenetic Epidemiology      |
+
+* Order last generated **2024-10-01** to restart the rota for meeting on **2024-11-05**
